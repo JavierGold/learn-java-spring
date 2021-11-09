@@ -1,4 +1,4 @@
-package mx.com.delasalle.HolaMundoSpring;
+package mx.com.delasalle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
